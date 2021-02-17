@@ -11,7 +11,7 @@ const courses = [
                   fields of information technology and communication design.`,
             assignments: [
                 {
-                    name: 'Industry Analaysis Paper',
+                    name: 'Industry Analysis Paper',
                     link: 'https://docs.google.com/document/d/1kWGzpB9Q2qP7q6vhtxGAiv32JDxS4oq2IpARV58nvHk/edit?usp=sharing',
                 }
             ],
