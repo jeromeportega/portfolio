@@ -13,6 +13,14 @@ const courses = [
                 {
                     name: 'Industry Analysis Paper',
                     link: 'https://docs.google.com/document/d/1kWGzpB9Q2qP7q6vhtxGAiv32JDxS4oq2IpARV58nvHk/edit?usp=sharing',
+                },
+                {
+                    name: 'Ethics Paper',
+                    link: 'https://docs.google.com/document/d/1PFUt7BLaXhFxhea3vsTJCdFc4rXqEqTYCLcnYu6Wvwg/edit?usp=sharing',
+                },
+                {
+                    name: 'Iot and Energy Conservation Presentation',
+                    link: 'https://youtu.be/R_ZZ7254r38',
                 }
             ],
         }
